@@ -162,3 +162,4 @@ cython_debug/
 
 #jypter notebook 
 .ipynb_checkpoints/
+.DS_Store
